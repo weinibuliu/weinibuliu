@@ -10,4 +10,4 @@ My current learning focus is on the following technologies:
 - JavaScript/TypeScript
 - C++
 
-I absolutely love coding and am an avid supporter of the open-source community. I'm thrilled to meet fellow developers and can't wait to connect and create something amazing together!
+I absolutely love coding and am an avid contributor of the open-source community. I'm thrilled to meet fellow developers and can't wait to connect and create something amazing together!
